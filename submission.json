@@ -1,0 +1,7 @@
+{
+  "prompt": "A vast ancient forest at dusk, most trees are skeletal and bare... [your full prompt here]",
+  "model": "Midjourney v6.1",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
+  "dataset_url": "https://www.unesco.org/languages-atlas/",
+  "insight": "Over half of the world's 7,000 languages are expected to disappear by 2100, most with no written record."
+}
